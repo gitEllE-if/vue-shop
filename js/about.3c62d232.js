@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_shop"]=self["webpackChunkvue_shop"]||[]).push([[443],{8425:function(u,n,e){e.r(n),e.d(n,{default:function(){return c}});var t=function(){var u=this,n=u._self._c;return n("h1",[u._v("Страница не найдена")])},l=[],s={name:"NotFoundPage"},r=s,o=e(1001),a=(0,o.Z)(r,t,l,!1,null,null,null),c=a.exports}}]);
+//# sourceMappingURL=about.3c62d232.js.map
